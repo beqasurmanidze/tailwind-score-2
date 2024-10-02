@@ -3,7 +3,7 @@ import React from "react";
 const NavBar = () => {
   return (
     <>
-      <header className="flex items-center justify-between w-full h-[150px] bg-black px-8">
+      <header className=" flex items-center justify-between w-full h-[150px] bg-black px-8">
         {/* Logo */}
         <img src="/streamVibe.svg" alt="StreamVibe Logo" className="h-auto" />
 
@@ -37,9 +37,6 @@ const NavBar = () => {
           />
         </div>
       </header>
-      <div className="ml-[600px]">
-        <img src="Vector (3).png" alt="logo" />
-      </div>
     </>
   );
 };
