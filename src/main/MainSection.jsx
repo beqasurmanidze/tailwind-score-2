@@ -30,7 +30,7 @@ const MainSection = () => {
           <img className="mr-2" src="./rectangle.svg" alt="Start Watching " />
           Start Watching Now
         </button>
-      </div>
+      </div>  
     </>
   );
 };
