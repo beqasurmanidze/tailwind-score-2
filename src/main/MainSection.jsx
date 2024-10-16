@@ -5,7 +5,7 @@ const MainSection = () => {
     <>
       <div className="flex justify-center">
         <div className=" bg-gray-700 w-[100vw] ">
-          <img className="mx-auto" src="Vector (3).png" alt="logo" />
+          <img className="mx-auto" src="AbstractDesign.png" alt="logo" />
         </div>
       </div>
       <div className="flex justify-center ">
